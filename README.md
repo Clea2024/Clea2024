@@ -59,7 +59,7 @@
 
    <!-- Skills: Database -->
    <div style="flex-basis: 48%;">
-     <h3>Database</h3> 
+     <h3>Libraries</h3> 
      <a href="https://postgresql.org" target="_blank">
-     <img src="https://skillicons.dev" alt="PostgreSQL" />
+     <img src="https://skillicons.dev" alt="PostgreSQL"/>
    </div>

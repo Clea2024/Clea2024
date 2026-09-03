@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Cléa!A student from Brazil passionate about full-stack development.
 
-  - 🌱 I’m currently studying A student full-stack development/>
+  - 🌱 I’m currently studying full-stack development/>
 
   - 🔭 I am looking for my first job opportunity in the technology field. My dream is to one day work with My dream is to one day work with Data Analyst and Developer.
 </p>
